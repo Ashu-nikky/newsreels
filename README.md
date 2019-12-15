@@ -1,1 +1,1 @@
-# newsreels
+# newsreels: An automated engine for news articles recommendation
